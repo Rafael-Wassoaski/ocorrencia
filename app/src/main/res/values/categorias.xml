@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string-array name="categorias_desastres" >
+        <item name="terremoto">Terremoto</item>
+        <item name="movimento_de_Massa">Movimentos de Massa / Deslizamento</item>
+        <item name="erosao">Erosão</item>
+        <item name="inundacao">Inundação / Enxurradas / Alagamentos</item>
+        <item name="tornado">Tornado</item>
+        <item name="granizo">Granizo</item>
+        <item name="chuva_intensa">Chuva Intensa</item>
+        <item name="vendaval">Vendaval</item>
+        <item name="temperatuas_extremas">Temperaturas Extremas - Onda de Frio / Onda de Calor</item>
+        <item name="geada">Geada</item>
+        <item name="estiagem">Estiagem</item>
+        <item name="seca">Seca</item>
+        <item name="incendio_florestal">Incêndio Florestal</item>
+        <item name="epidemias">Epidemias</item>
+        <item name="infestacao">Infestação / Pragas</item>
+        <item name="substancias_radioativos">Desatres Relacionados a Substâncias Radioativas</item>
+        <item name="produtos_perigosos">Desatres Relacionados a Produtos Perigosos</item>
+        <item name="incendio_urbano">Desatres Relacionados a Incêndios Urbanos</item>
+        <item name="colapso_edificacoes">Colapso de Edificações</item>
+        <item name="rompimento_barragens">Rompimento / Colapso de Barragens</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+</resources>
